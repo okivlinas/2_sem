@@ -1,0 +1,19 @@
+﻿Сборка начата 15.05.2023 20:09:51.
+Уровень детализации журнала: Normal.     1>Проект "D:\Мои документы\Учеба\2 семестр\DS\Lab06\Lab06\Lab06\Lab06.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Lab06.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab06.vcxproj -> D:\Мои документы\Учеба\2 семестр\DS\Lab06\Lab06\x64\Debug\Lab06.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab06.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab06.tlog\Lab06.lastbuildstate".
+     1>Сборка проекта "D:\Мои документы\Учеба\2 семестр\DS\Lab06\Lab06\Lab06\Lab06.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.08

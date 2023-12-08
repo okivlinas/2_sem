@@ -1,0 +1,27 @@
+﻿Сборка начата 17.05.2023 20:56:40.
+Уровень детализации журнала: Normal.     1>Проект "D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\lab12.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\lab12.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt lab12.cpp
+         lab12.cpp
+     1>D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\lab12.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\x64\Debug\lab12.exe" /INCREMENTAL /ILK:"x64\Debug\lab12.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\x64\Debug\lab12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\x64\Debug\lab12.lib" /MACHINE:X64 x64\Debug\lab12.obj
+         x64\Debug\Source.obj
+         lab12.vcxproj -> D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\x64\Debug\lab12.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab12.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab12.tlog\lab12.lastbuildstate".
+     1>Сборка проекта "D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\lab12.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\lab12.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Мои документы\Учеба\2 семестр\ОАиП\LABs\lab12\lab12\lab12.cpp(24,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.43

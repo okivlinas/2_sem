@@ -1,0 +1,6 @@
+﻿  lab03_01.cpp
+D:\Мои документы\Учеба\2 семестр\АиСД\lab03\lab03_01\lab03_01.cpp(25,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+lab03_01.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl arrayCopy(int *,int *,int)" (?arrayCopy@@YAHPEAH0H@Z) в функции main.
+lab03_01.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl showArray(int *,int)" (?showArray@@YAXPEAHH@Z) в функции main.
+lab03_01.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl quickSort(int *,int)" (?quickSort@@YAHPEAHH@Z) в функции main.
+D:\Мои документы\Учеба\2 семестр\АиСД\lab03\lab03_01\x64\Debug\lab03_01.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
