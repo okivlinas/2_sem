@@ -1,4 +1,4 @@
-## All laboratory work for the 3rd semester of POIT is located here. If you have any questions, please contact me. Links to my contacts are in my profile
+## All laboratory work for the 2nd semester of POIT is located here. If you have any questions, please contact me. Links to my contacts are in my profile
 
 1. `_AiSD` - there are no variants, the labs are well made
 2. `_ChM` - I have variant 11, but I advise you to take it as a template and do it yourself
